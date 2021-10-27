@@ -54,7 +54,7 @@ function App() {
 
   return (
     <div className="App">
-      <header>
+    <header>
       <h1>Mateusz Wójcik Todo List</h1>
     </header>
     <Form
